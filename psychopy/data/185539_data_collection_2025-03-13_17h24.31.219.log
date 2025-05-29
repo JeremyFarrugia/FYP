@@ -1,0 +1,293 @@
+11.2061 	INFO 	Loaded monitor calibration from ['2025_02_20 13:57']
+11.2185 	WARNING 	User requested fullscreen with size [2560 1440], but screen is actually [1920, 1080]. Using actual size
+12.5705 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BF7AC162C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BF7AC16260>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BF7ADDF7F0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=1, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.5705 	EXP 	window1: backgroundImage = ''
+12.5706 	EXP 	window1: backgroundFit = 'none'
+12.7411 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+12.7411 	EXP 	window1: recordFrameIntervals = False
+12.9042 	EXP 	window1: recordFrameIntervals = True
+14.5715 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+17.0149 	INFO 	keyboard.Keyboard is using iohub backend.
+17.0150 	EXP 	data_collection: status = STARTED
+17.1123 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Adjustment Period', units='height', win=Window(...), wrapWidth=1)
+17.1220 	EXP 	Created fixationCross_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationCross_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='x', units='height', win=Window(...), wrapWidth=1)
+17.1543 	EXP 	Created wordDisplayText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='wordDisplayText', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.1598 	EXP 	Created fixationCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+17.1641 	EXP 	Created placeholder_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='blank.png', interpolate=True, mask=None, maskParams=None, name='placeholder_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0229 	EXP 	text: autoDraw = True
+0.3730 	WARNING 	t of last frame was 20.35ms (=1/49)
+2.8667 	WARNING 	t of last frame was 32.53ms (=1/30)
+3.0545 	WARNING 	t of last frame was 20.64ms (=1/48)
+3.2373 	WARNING 	t of last frame was 20.65ms (=1/48)
+3.3041 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+10.0199 	EXP 	Imported words.csv as conditions, 20 conditions, 3 params
+10.0202 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'I', 'marker': 1, 'keybind': 'a', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+10.0281 	EXP 	text: autoDraw = False
+10.0281 	EXP 	fixationCross_2: autoDraw = True
+12.0337 	EXP 	fixationCross_2: autoDraw = False
+12.0337 	EXP 	wordDisplayText: height = 0.05
+12.0337 	EXP 	wordDisplayText: height = 0.05
+12.0337 	EXP 	wordDisplayText: height = 0.05
+12.0337 	EXP 	wordDisplayText: text = 'When'
+12.0337 	EXP 	wordDisplayText: autoDraw = True
+16.0231 	EXP 	wordDisplayText: autoDraw = False
+16.0231 	EXP 	fixationCross: autoDraw = True
+52.0654 	EXP 	fixationCross: autoDraw = False
+52.0654 	EXP 	placeholder_image: autoDraw = True
+60.0037 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'More', 'marker': 2, 'keybind': 'b', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+60.0230 	EXP 	placeholder_image: autoDraw = False
+60.0230 	EXP 	fixationCross_2: autoDraw = True
+62.0186 	EXP 	fixationCross_2: autoDraw = False
+62.0186 	EXP 	wordDisplayText: height = 0.05
+62.0186 	EXP 	wordDisplayText: height = 0.05
+62.0186 	EXP 	wordDisplayText: height = 0.05
+62.0186 	EXP 	wordDisplayText: text = 'Stop'
+62.0186 	EXP 	wordDisplayText: autoDraw = True
+66.0319 	EXP 	wordDisplayText: autoDraw = False
+66.0319 	EXP 	fixationCross: autoDraw = True
+102.0188 	EXP 	fixationCross: autoDraw = False
+102.0188 	EXP 	placeholder_image: autoDraw = True
+110.0155 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'What', 'marker': 3, 'keybind': 'c', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+110.0314 	EXP 	placeholder_image: autoDraw = False
+110.0314 	EXP 	fixationCross_2: autoDraw = True
+112.0276 	EXP 	fixationCross_2: autoDraw = False
+112.0276 	EXP 	wordDisplayText: height = 0.05
+112.0276 	EXP 	wordDisplayText: height = 0.05
+112.0276 	EXP 	wordDisplayText: height = 0.05
+112.0276 	EXP 	wordDisplayText: text = 'No'
+112.0276 	EXP 	wordDisplayText: autoDraw = True
+116.0245 	EXP 	wordDisplayText: autoDraw = False
+116.0245 	EXP 	fixationCross: autoDraw = True
+152.0281 	EXP 	fixationCross: autoDraw = False
+152.0281 	EXP 	placeholder_image: autoDraw = True
+160.0053 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'word': 'Who', 'marker': 4, 'keybind': 'd', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+160.0239 	EXP 	placeholder_image: autoDraw = False
+160.0239 	EXP 	fixationCross_2: autoDraw = True
+162.0199 	EXP 	fixationCross_2: autoDraw = False
+162.0199 	EXP 	wordDisplayText: height = 0.05
+162.0199 	EXP 	wordDisplayText: height = 0.05
+162.0199 	EXP 	wordDisplayText: height = 0.05
+162.0199 	EXP 	wordDisplayText: text = 'Do'
+162.0199 	EXP 	wordDisplayText: autoDraw = True
+166.0337 	EXP 	wordDisplayText: autoDraw = False
+166.0337 	EXP 	fixationCross: autoDraw = True
+202.0241 	EXP 	fixationCross: autoDraw = False
+202.0241 	EXP 	placeholder_image: autoDraw = True
+210.0015 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'word': 'Help', 'marker': 5, 'keybind': 'e', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+210.0140 	EXP 	placeholder_image: autoDraw = False
+210.0140 	EXP 	fixationCross_2: autoDraw = True
+212.0122 	EXP 	fixationCross_2: autoDraw = False
+212.0122 	EXP 	fixationCross_2: autoDraw = False
+212.0122 	EXP 	wordDisplayText: height = 0.05
+212.0122 	EXP 	wordDisplayText: height = 0.05
+212.0122 	EXP 	wordDisplayText: height = 0.05
+212.0122 	EXP 	wordDisplayText: text = 'What'
+212.0122 	EXP 	wordDisplayText: autoDraw = True
+216.0086 	EXP 	wordDisplayText: autoDraw = False
+216.0086 	EXP 	wordDisplayText: autoDraw = False
+216.0086 	EXP 	fixationCross: autoDraw = True
+252.0154 	EXP 	fixationCross: autoDraw = False
+252.0154 	EXP 	fixationCross: autoDraw = False
+252.0154 	EXP 	placeholder_image: autoDraw = True
+260.0084 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'word': 'You', 'marker': 6, 'keybind': 'f', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+260.0229 	EXP 	placeholder_image: autoDraw = False
+260.0229 	EXP 	fixationCross_2: autoDraw = True
+262.0219 	EXP 	fixationCross_2: autoDraw = False
+262.0219 	EXP 	wordDisplayText: height = 0.05
+262.0219 	EXP 	wordDisplayText: height = 0.05
+262.0219 	EXP 	wordDisplayText: height = 0.05
+262.0219 	EXP 	wordDisplayText: text = 'You'
+262.0219 	EXP 	wordDisplayText: autoDraw = True
+266.0201 	EXP 	wordDisplayText: autoDraw = False
+266.0201 	EXP 	fixationCross: autoDraw = True
+302.0244 	EXP 	fixationCross: autoDraw = False
+302.0244 	EXP 	placeholder_image: autoDraw = True
+310.0171 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'word': 'Want', 'marker': 7, 'keybind': 'g', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+310.0313 	EXP 	placeholder_image: autoDraw = False
+310.0313 	EXP 	fixationCross_2: autoDraw = True
+312.0299 	EXP 	fixationCross_2: autoDraw = False
+312.0299 	EXP 	wordDisplayText: height = 0.05
+312.0299 	EXP 	wordDisplayText: height = 0.05
+312.0299 	EXP 	wordDisplayText: height = 0.05
+312.0299 	EXP 	wordDisplayText: text = 'In'
+312.0299 	EXP 	wordDisplayText: autoDraw = True
+316.0263 	EXP 	wordDisplayText: autoDraw = False
+316.0263 	EXP 	fixationCross: autoDraw = True
+352.0326 	EXP 	fixationCross: autoDraw = False
+352.0326 	EXP 	placeholder_image: autoDraw = True
+360.0079 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'word': 'When', 'marker': 8, 'keybind': 'h', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+360.0277 	EXP 	placeholder_image: autoDraw = False
+360.0277 	EXP 	fixationCross_2: autoDraw = True
+362.0221 	EXP 	fixationCross_2: autoDraw = False
+362.0221 	EXP 	wordDisplayText: height = 0.05
+362.0221 	EXP 	wordDisplayText: height = 0.05
+362.0221 	EXP 	wordDisplayText: height = 0.05
+362.0221 	EXP 	wordDisplayText: text = 'Come'
+362.0221 	EXP 	wordDisplayText: autoDraw = True
+366.0187 	EXP 	wordDisplayText: autoDraw = False
+366.0187 	EXP 	fixationCross: autoDraw = True
+402.0253 	EXP 	fixationCross: autoDraw = False
+402.0253 	EXP 	placeholder_image: autoDraw = True
+410.0165 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'word': 'On', 'marker': 9, 'keybind': 'i', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+410.0356 	EXP 	placeholder_image: autoDraw = False
+410.0356 	EXP 	fixationCross_2: autoDraw = True
+412.0143 	EXP 	fixationCross_2: autoDraw = False
+412.0143 	EXP 	wordDisplayText: height = 0.05
+412.0143 	EXP 	wordDisplayText: height = 0.05
+412.0143 	EXP 	wordDisplayText: height = 0.05
+412.0143 	EXP 	wordDisplayText: text = 'More'
+412.0143 	EXP 	wordDisplayText: autoDraw = True
+416.0277 	EXP 	wordDisplayText: autoDraw = False
+416.0277 	EXP 	fixationCross: autoDraw = True
+452.0319 	EXP 	fixationCross: autoDraw = False
+452.0319 	EXP 	placeholder_image: autoDraw = True
+460.0084 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'word': 'Stop', 'marker': 10, 'keybind': 'j', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+460.0277 	EXP 	placeholder_image: autoDraw = False
+460.0277 	EXP 	fixationCross_2: autoDraw = True
+462.0268 	EXP 	fixationCross_2: autoDraw = False
+462.0268 	EXP 	wordDisplayText: height = 0.05
+462.0268 	EXP 	wordDisplayText: height = 0.05
+462.0268 	EXP 	wordDisplayText: height = 0.05
+462.0268 	EXP 	wordDisplayText: text = 'Help'
+462.0268 	EXP 	wordDisplayText: autoDraw = True
+466.0238 	EXP 	wordDisplayText: autoDraw = False
+466.0238 	EXP 	fixationCross: autoDraw = True
+502.0236 	EXP 	fixationCross: autoDraw = False
+502.0236 	EXP 	placeholder_image: autoDraw = True
+510.0015 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'word': 'Yes', 'marker': 11, 'keybind': 'k', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+510.0197 	EXP 	placeholder_image: autoDraw = False
+510.0197 	EXP 	fixationCross_2: autoDraw = True
+512.1337 	EXP 	fixationCross_2: autoDraw = False
+512.1337 	EXP 	wordDisplayText: height = 0.05
+512.1337 	EXP 	wordDisplayText: height = 0.05
+512.1337 	EXP 	wordDisplayText: height = 0.05
+512.1337 	EXP 	wordDisplayText: text = 'Give'
+512.1337 	EXP 	wordDisplayText: autoDraw = True
+516.0292 	EXP 	wordDisplayText: autoDraw = False
+516.0292 	EXP 	fixationCross: autoDraw = True
+552.0355 	EXP 	fixationCross: autoDraw = False
+552.0355 	EXP 	placeholder_image: autoDraw = True
+560.0098 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'word': 'Do', 'marker': 12, 'keybind': 'l', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+560.0288 	EXP 	placeholder_image: autoDraw = False
+560.0288 	EXP 	fixationCross_2: autoDraw = True
+562.0284 	EXP 	fixationCross_2: autoDraw = False
+562.0284 	EXP 	wordDisplayText: height = 0.05
+562.0284 	EXP 	wordDisplayText: height = 0.05
+562.0284 	EXP 	wordDisplayText: height = 0.05
+562.0284 	EXP 	wordDisplayText: text = 'I'
+562.0284 	EXP 	wordDisplayText: autoDraw = True
+566.0244 	EXP 	wordDisplayText: autoDraw = False
+566.0244 	EXP 	fixationCross: autoDraw = True
+602.0251 	EXP 	fixationCross: autoDraw = False
+602.0251 	EXP 	placeholder_image: autoDraw = True
+610.0046 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'word': 'Where', 'marker': 13, 'keybind': 'm', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+610.0183 	EXP 	placeholder_image: autoDraw = False
+610.0183 	EXP 	fixationCross_2: autoDraw = True
+612.0208 	EXP 	fixationCross_2: autoDraw = False
+612.0208 	EXP 	wordDisplayText: height = 0.05
+612.0208 	EXP 	wordDisplayText: height = 0.05
+612.0208 	EXP 	wordDisplayText: height = 0.05
+612.0208 	EXP 	wordDisplayText: text = 'Yes'
+612.0208 	EXP 	wordDisplayText: autoDraw = True
+616.0299 	EXP 	wordDisplayText: autoDraw = False
+616.0299 	EXP 	fixationCross: autoDraw = True
+652.0171 	EXP 	fixationCross: autoDraw = False
+652.0171 	EXP 	placeholder_image: autoDraw = True
+660.0106 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'word': 'In', 'marker': 14, 'keybind': 'n', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+660.0271 	EXP 	placeholder_image: autoDraw = False
+660.0271 	EXP 	fixationCross_2: autoDraw = True
+662.0258 	EXP 	fixationCross_2: autoDraw = False
+662.0258 	EXP 	wordDisplayText: height = 0.05
+662.0258 	EXP 	wordDisplayText: height = 0.05
+662.0258 	EXP 	wordDisplayText: height = 0.05
+662.0258 	EXP 	wordDisplayText: text = 'Want'
+662.0258 	EXP 	wordDisplayText: autoDraw = True
+666.0221 	EXP 	wordDisplayText: autoDraw = False
+666.0221 	EXP 	fixationCross: autoDraw = True
+702.0302 	EXP 	fixationCross: autoDraw = False
+702.0302 	EXP 	placeholder_image: autoDraw = True
+710.0028 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'word': 'Give', 'marker': 15, 'keybind': 'o', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+710.0215 	EXP 	placeholder_image: autoDraw = False
+710.0215 	EXP 	fixationCross_2: autoDraw = True
+712.0181 	EXP 	fixationCross_2: autoDraw = False
+712.0181 	EXP 	wordDisplayText: height = 0.05
+712.0181 	EXP 	wordDisplayText: height = 0.05
+712.0181 	EXP 	wordDisplayText: height = 0.05
+712.0181 	EXP 	wordDisplayText: text = 'Where'
+712.0181 	EXP 	wordDisplayText: autoDraw = True
+716.0348 	EXP 	wordDisplayText: autoDraw = False
+716.0348 	EXP 	fixationCross: autoDraw = True
+752.0206 	EXP 	fixationCross: autoDraw = False
+752.0206 	EXP 	placeholder_image: autoDraw = True
+760.0145 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'word': 'No', 'marker': 16, 'keybind': 'p', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+760.0282 	EXP 	placeholder_image: autoDraw = False
+760.0282 	EXP 	fixationCross_2: autoDraw = True
+762.0266 	EXP 	fixationCross_2: autoDraw = False
+762.0266 	EXP 	wordDisplayText: height = 0.05
+762.0266 	EXP 	wordDisplayText: height = 0.05
+762.0266 	EXP 	wordDisplayText: height = 0.05
+762.0266 	EXP 	wordDisplayText: text = 'On'
+762.0266 	EXP 	wordDisplayText: autoDraw = True
+766.0232 	EXP 	wordDisplayText: autoDraw = False
+766.0232 	EXP 	fixationCross: autoDraw = True
+802.0295 	EXP 	fixationCross: autoDraw = False
+802.0295 	EXP 	placeholder_image: autoDraw = True
+810.0039 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'word': 'Put', 'marker': 17, 'keybind': 'q', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+810.0204 	EXP 	placeholder_image: autoDraw = False
+810.0204 	EXP 	fixationCross_2: autoDraw = True
+812.0187 	EXP 	fixationCross_2: autoDraw = False
+812.0187 	EXP 	wordDisplayText: height = 0.05
+812.0187 	EXP 	wordDisplayText: height = 0.05
+812.0187 	EXP 	wordDisplayText: height = 0.05
+812.0187 	EXP 	wordDisplayText: text = 'Put'
+812.0187 	EXP 	wordDisplayText: autoDraw = True
+816.0346 	EXP 	wordDisplayText: autoDraw = False
+816.0346 	EXP 	fixationCross: autoDraw = True
+852.0224 	EXP 	fixationCross: autoDraw = False
+852.0224 	EXP 	placeholder_image: autoDraw = True
+860.0154 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'word': 'Why', 'marker': 18, 'keybind': 'r', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+860.0293 	EXP 	placeholder_image: autoDraw = False
+860.0293 	EXP 	fixationCross_2: autoDraw = True
+862.0278 	EXP 	fixationCross_2: autoDraw = False
+862.0278 	EXP 	wordDisplayText: height = 0.05
+862.0278 	EXP 	wordDisplayText: height = 0.05
+862.0278 	EXP 	wordDisplayText: height = 0.05
+862.0278 	EXP 	wordDisplayText: text = 'Get'
+862.0278 	EXP 	wordDisplayText: autoDraw = True
+866.0245 	EXP 	wordDisplayText: autoDraw = False
+866.0245 	EXP 	fixationCross: autoDraw = True
+902.0280 	EXP 	fixationCross: autoDraw = False
+902.0280 	EXP 	placeholder_image: autoDraw = True
+910.0055 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'word': 'Get', 'marker': 19, 'keybind': 's', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+910.0242 	EXP 	placeholder_image: autoDraw = False
+910.0242 	EXP 	fixationCross_2: autoDraw = True
+912.0200 	EXP 	fixationCross_2: autoDraw = False
+912.0200 	EXP 	wordDisplayText: height = 0.05
+912.0200 	EXP 	wordDisplayText: height = 0.05
+912.0200 	EXP 	wordDisplayText: height = 0.05
+912.0200 	EXP 	wordDisplayText: text = 'Who'
+912.0200 	EXP 	wordDisplayText: autoDraw = True
+916.0372 	EXP 	wordDisplayText: autoDraw = False
+916.0372 	EXP 	fixationCross: autoDraw = True
+952.0236 	EXP 	fixationCross: autoDraw = False
+952.0236 	EXP 	placeholder_image: autoDraw = True
+960.0183 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'word': 'Come', 'marker': 20, 'keybind': 't', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+960.0313 	EXP 	placeholder_image: autoDraw = False
+960.0313 	EXP 	fixationCross_2: autoDraw = True
+962.0321 	EXP 	fixationCross_2: autoDraw = False
+962.0321 	EXP 	wordDisplayText: height = 0.05
+962.0321 	EXP 	wordDisplayText: height = 0.05
+962.0321 	EXP 	wordDisplayText: height = 0.05
+962.0321 	EXP 	wordDisplayText: text = 'Why'
+962.0321 	EXP 	wordDisplayText: autoDraw = True
+966.0263 	EXP 	wordDisplayText: autoDraw = False
+966.0263 	EXP 	fixationCross: autoDraw = True
+1002.0294 	EXP 	fixationCross: autoDraw = False
+1002.0294 	EXP 	placeholder_image: autoDraw = True
+1010.0261 	EXP 	placeholder_image: autoDraw = False
+1010.0264 	EXP 	data_collection: status = STOPPED
+1010.0349 	INFO 	saved data to 'C:\\Users\\User\\Desktop\\AI Work\\Year 3\\FYP\\FYP-Procedure\\psychopy\\data/185539_data_collection_2025-03-13_17h24.31.219.csv'
+1010.0363 	INFO 	saved data to C:\Users\User\Desktop\AI Work\Year 3\FYP\FYP-Procedure\psychopy\data/185539_data_collection_2025-03-13_17h24.31.219.psydat

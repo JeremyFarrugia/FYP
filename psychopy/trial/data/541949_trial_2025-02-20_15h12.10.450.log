@@ -1,0 +1,48 @@
+6.6720 	INFO 	Loaded monitor calibration from ['2025_02_20 13:57']
+6.6947 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [2560, 1440]. Using actual size
+8.1171 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A8E2D90DF0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A8E2D90D90>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A8E2F5E290>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=1, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.1172 	EXP 	window1: backgroundImage = ''
+8.1172 	EXP 	window1: backgroundFit = 'none'
+8.3403 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+8.3404 	EXP 	window1: recordFrameIntervals = False
+8.5261 	EXP 	window1: recordFrameIntervals = True
+8.7590 	EXP 	Screen (1) actual frame rate measured at 60.85Hz
+8.7590 	EXP 	window1: recordFrameIntervals = False
+11.0851 	INFO 	keyboard.Keyboard is using iohub backend.
+11.0851 	EXP 	trial: status = STARTED
+11.1388 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Ajustment Period', units='height', win=Window(...), wrapWidth=1)
+11.1405 	EXP 	Created wordDisplayText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='wordDisplayText', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.1456 	EXP 	Created fixationCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+0.0129 	EXP 	text: autoDraw = True
+10.0119 	EXP 	Imported words.csv as conditions, 3 conditions, 2 params
+10.0124 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'I', 'marker': 1, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+10.0282 	EXP 	text: autoDraw = False
+10.0282 	EXP 	wordDisplayText: height = 0.05
+10.0282 	EXP 	wordDisplayText: height = 0.05
+10.0282 	EXP 	wordDisplayText: height = 0.05
+10.0282 	EXP 	wordDisplayText: text = 'What'
+10.0282 	EXP 	wordDisplayText: autoDraw = True
+14.0326 	EXP 	wordDisplayText: autoDraw = False
+14.0326 	EXP 	fixationCross: autoDraw = True
+20.0116 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'More', 'marker': 2, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+20.0277 	EXP 	fixationCross: autoDraw = False
+20.0277 	EXP 	wordDisplayText: height = 0.05
+20.0277 	EXP 	wordDisplayText: height = 0.05
+20.0277 	EXP 	wordDisplayText: height = 0.05
+20.0277 	EXP 	wordDisplayText: text = 'I'
+25.0066 	EXP 	wordDisplayText: autoDraw = True
+29.0202 	EXP 	wordDisplayText: autoDraw = False
+29.0202 	EXP 	fixationCross: autoDraw = True
+35.0163 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'What', 'marker': 3, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+35.0318 	EXP 	fixationCross: autoDraw = False
+35.0318 	EXP 	wordDisplayText: height = 0.05
+35.0318 	EXP 	wordDisplayText: height = 0.05
+35.0318 	EXP 	wordDisplayText: height = 0.05
+35.0318 	EXP 	wordDisplayText: text = 'More'
+40.0111 	EXP 	wordDisplayText: autoDraw = True
+44.0243 	EXP 	wordDisplayText: autoDraw = False
+44.0243 	EXP 	fixationCross: autoDraw = True
+50.0196 	EXP 	fixationCross: autoDraw = False
+50.0198 	EXP 	trial: status = STOPPED
+50.0223 	INFO 	saved data to 'C:\\Users\\User\\Desktop\\AI Work\\Year 3\\FYP\\FYP-Procedure\\psychopy\\trial\\data/541949_trial_2025-02-20_15h12.10.450.csv'
+50.0235 	INFO 	saved data to C:\Users\User\Desktop\AI Work\Year 3\FYP\FYP-Procedure\psychopy\trial\data/541949_trial_2025-02-20_15h12.10.450.psydat

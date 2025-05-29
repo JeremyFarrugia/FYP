@@ -1,0 +1,39 @@
+20.5858 	INFO 	Loaded monitor calibration from ['2025_02_20 13:57']
+22.1255 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A6D1B05D20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A6D1B05CC0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A6D1CC7250>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=1, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.1256 	EXP 	window1: backgroundImage = ''
+22.1257 	EXP 	window1: backgroundFit = 'none'
+22.3251 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+22.3252 	EXP 	window1: recordFrameIntervals = False
+22.5151 	EXP 	window1: recordFrameIntervals = True
+22.5823 	WARNING 	t of last frame was 20.04ms (=1/49)
+23.1660 	WARNING 	t of last frame was 20.00ms (=1/49)
+23.8649 	WARNING 	t of last frame was 20.00ms (=1/49)
+23.9743 	WARNING 	t of last frame was 29.06ms (=1/34)
+24.0094 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+24.1975 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+27.3412 	INFO 	keyboard.Keyboard is using iohub backend.
+27.3413 	EXP 	data_collection: status = STARTED
+27.4311 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Ajustment Period', units='height', win=Window(...), wrapWidth=1)
+27.4570 	EXP 	Created wordDisplayText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='wordDisplayText', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+27.4611 	EXP 	Created fixationCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+0.0148 	EXP 	text: autoDraw = True
+10.0113 	EXP 	Imported words.csv as conditions, 20 conditions, 3 params
+10.0117 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'I', 'marker': 1, 'keybind': 'a', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+10.0619 	DATA 	Keypress: f
+10.0664 	EXP 	text: autoDraw = False
+10.0664 	EXP 	wordDisplayText: height = 0.05
+10.0664 	EXP 	wordDisplayText: height = 0.05
+10.0664 	EXP 	wordDisplayText: height = 0.05
+10.0664 	EXP 	wordDisplayText: text = 'You'
+10.0664 	EXP 	wordDisplayText: autoDraw = True
+14.0196 	EXP 	wordDisplayText: autoDraw = False
+14.0196 	EXP 	fixationCross: autoDraw = True
+19.3825 	DATA 	Keypress: escape
+19.5324 	EXP 	data_collection: status = STOPPED
+19.5509 	EXP 	fixationCross: autoDraw = False
+19.5511 	EXP 	data_collection: status = STOPPED
+19.5646 	INFO 	saved data to 'C:\\Users\\User\\Desktop\\AI Work\\Year 3\\FYP\\FYP-Procedure\\psychopy\\data/487328_data_collection_2025-02-27_12h59.08.203.csv'
+19.5662 	INFO 	saved data to C:\Users\User\Desktop\AI Work\Year 3\FYP\FYP-Procedure\psychopy\data/487328_data_collection_2025-02-27_12h59.08.203.psydat

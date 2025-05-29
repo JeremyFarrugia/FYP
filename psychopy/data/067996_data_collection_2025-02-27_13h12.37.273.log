@@ -1,0 +1,83 @@
+22.3703 	INFO 	Loaded monitor calibration from ['2025_02_20 13:57']
+23.6085 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000211278CAB60>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000211278CAB00>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021127AB40D0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=1, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+23.6086 	EXP 	window1: backgroundImage = ''
+23.6086 	EXP 	window1: backgroundFit = 'none'
+23.7702 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+23.7702 	EXP 	window1: recordFrameIntervals = False
+23.9478 	EXP 	window1: recordFrameIntervals = True
+24.5682 	WARNING 	t of last frame was 23.03ms (=1/43)
+25.6111 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+31.2387 	INFO 	keyboard.Keyboard is using iohub backend.
+31.2387 	EXP 	data_collection: status = STARTED
+31.3462 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Ajustment Period', units='height', win=Window(...), wrapWidth=1)
+31.4142 	EXP 	Created wordDisplayText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='wordDisplayText', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+31.4373 	EXP 	Created fixationCross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixationCross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+31.4504 	EXP 	Created placeholder_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='blank.png', interpolate=True, mask=None, maskParams=None, name='placeholder_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0759 	WARNING 	t of last frame was 24.96ms (=1/40)
+0.0759 	EXP 	text: autoDraw = True
+0.4147 	WARNING 	t of last frame was 22.45ms (=1/44)
+0.6285 	WARNING 	t of last frame was 22.26ms (=1/44)
+0.6493 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+10.0193 	EXP 	Imported words.csv as conditions, 20 conditions, 3 params
+10.0195 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'I', 'marker': 1, 'keybind': 'a', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+10.0436 	EXP 	text: autoDraw = False
+10.0436 	EXP 	wordDisplayText: height = 0.05
+10.0436 	EXP 	wordDisplayText: height = 0.05
+10.0436 	EXP 	wordDisplayText: height = 0.05
+10.0436 	EXP 	wordDisplayText: text = 'What'
+10.0436 	EXP 	wordDisplayText: autoDraw = True
+14.0277 	EXP 	wordDisplayText: autoDraw = False
+14.0277 	EXP 	fixationCross: autoDraw = True
+50.0602 	EXP 	fixationCross: autoDraw = False
+50.0602 	EXP 	placeholder_image: autoDraw = True
+58.0112 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'More', 'marker': 2, 'keybind': 'b', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+58.0395 	EXP 	placeholder_image: autoDraw = False
+58.0395 	EXP 	wordDisplayText: height = 0.05
+58.0395 	EXP 	wordDisplayText: height = 0.05
+58.0395 	EXP 	wordDisplayText: height = 0.05
+58.0395 	EXP 	wordDisplayText: text = 'Give'
+58.0395 	EXP 	wordDisplayText: autoDraw = True
+62.0237 	EXP 	wordDisplayText: autoDraw = False
+62.0237 	EXP 	fixationCross: autoDraw = True
+98.0257 	EXP 	fixationCross: autoDraw = False
+98.0257 	EXP 	placeholder_image: autoDraw = True
+106.0044 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'What', 'marker': 3, 'keybind': 'c', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+106.0267 	EXP 	placeholder_image: autoDraw = False
+106.0267 	EXP 	wordDisplayText: height = 0.05
+106.0267 	EXP 	wordDisplayText: height = 0.05
+106.0267 	EXP 	wordDisplayText: height = 0.05
+106.0267 	EXP 	wordDisplayText: text = 'Who'
+106.0267 	EXP 	wordDisplayText: autoDraw = True
+110.0154 	EXP 	wordDisplayText: autoDraw = False
+110.0154 	EXP 	fixationCross: autoDraw = True
+146.0190 	EXP 	fixationCross: autoDraw = False
+146.0190 	EXP 	placeholder_image: autoDraw = True
+154.0128 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'word': 'Who', 'marker': 4, 'keybind': 'd', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+154.0322 	EXP 	placeholder_image: autoDraw = False
+154.0322 	EXP 	wordDisplayText: height = 0.05
+154.0322 	EXP 	wordDisplayText: height = 0.05
+154.0322 	EXP 	wordDisplayText: height = 0.05
+154.0322 	EXP 	wordDisplayText: text = 'Want'
+154.0322 	EXP 	wordDisplayText: autoDraw = True
+158.0263 	EXP 	wordDisplayText: autoDraw = False
+158.0263 	EXP 	fixationCross: autoDraw = True
+194.0317 	EXP 	fixationCross: autoDraw = False
+194.0317 	EXP 	placeholder_image: autoDraw = True
+202.0082 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'word': 'Help', 'marker': 5, 'keybind': 'e', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+202.0235 	EXP 	placeholder_image: autoDraw = False
+202.0235 	EXP 	wordDisplayText: height = 0.05
+202.0235 	EXP 	wordDisplayText: height = 0.05
+202.0235 	EXP 	wordDisplayText: height = 0.05
+202.0235 	EXP 	wordDisplayText: text = 'Put'
+202.0235 	EXP 	wordDisplayText: autoDraw = True
+206.0385 	EXP 	wordDisplayText: autoDraw = False
+206.0385 	EXP 	fixationCross: autoDraw = True
+207.9554 	DATA 	Keypress: escape
+208.1026 	EXP 	data_collection: status = STOPPED
+208.1185 	EXP 	fixationCross: autoDraw = False
+208.1186 	EXP 	data_collection: status = STOPPED
+208.1295 	INFO 	saved data to 'C:\\Users\\User\\Desktop\\AI Work\\Year 3\\FYP\\FYP-Procedure\\psychopy\\data/067996_data_collection_2025-02-27_13h12.37.273.csv'
+208.1303 	INFO 	saved data to C:\Users\User\Desktop\AI Work\Year 3\FYP\FYP-Procedure\psychopy\data/067996_data_collection_2025-02-27_13h12.37.273.psydat
